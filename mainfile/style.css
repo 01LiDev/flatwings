@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    background: url("images/banner.jpg");
+    background-size: cover;
+    color: white;
+}
+body{
+    background-image: url(http://pics4.city-data.com/cpicv/vfiles20222.jpg);
+}
